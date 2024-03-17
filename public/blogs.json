@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/y4tYnNm/flat-lay-workstation-with-copy-space-laptop.jpg",
+      "title": "The Art of Cooking",
+      "author": "John Doe",
+      "img": "https://i.ibb.co/6cQHTvW/tyler-nix-X2-YO8-KFxg-EM-unsplash.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time": 10,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/ZNNQ3tp/nice-business-desk-black-background.jpg",
+      "title": "Exploring the Universe",
+      "author": "Jane Smith",
+      "img": "https://i.ibb.co/wzhtdpj/charlesdeluvio-k-Vg2-DQTAK7c-unsplash.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 15,
+      "hashtags": ["space", "astronomy", "science"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/8P7WNg1/messy-office-desk-still-life.jpg",
+      "author": "Sam Johnson",
+      "img": "https://i.ibb.co/4S8Ly4x/kirill-balobanov-2r-Is8-OH5ng0-unsplash.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 12,
+      "hashtags": ["hiking", "nature", "outdoors"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Vqcnh9D/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+      "title": "DIY Home Decor",
+      "author": "Emily Brown",
+      "img": "https://i.ibb.co/5FR0ccQ/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 8,
+      "hashtags": ["DIY", "home", "decor"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/m5Qwq00/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
+      "title": "Fitness Tips",
+      "author": "Alex Wilson",
+      "img": "https://i.ibb.co/gvHZNN7/brooke-cagle-kv-KSL7-B6e-To-unsplash.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtags": ["fitness", "exercise", "health"]
+    }
+  ]
+  
